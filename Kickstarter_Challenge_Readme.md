@@ -19,4 +19,11 @@ Our second area of interest was the success rate of campaigns at different start
 
 On a technical note, we had some dicciculty with the COUNTIFS statements
 
-      * * =COUNTIFS(Kickstarter!D:D, ">=1000", Kickstarter!F:F,  "successful", Kickstarter!$D:$D, "<5000", Kickstarter!R:R, "plays")* *
+       =COUNTIFS(Kickstarter!D:D, ">=1000", Kickstarter!F:F,  "successful", Kickstarter!$D:$D, "<5000", Kickstarter!R:R, "plays") 
+      
+This required a bit on additional research to become confortable wtih. We are happy we did, as it's a powerful tool.
+
+##### General Recommendations and Suggestions
+If we combine the data from the two graphs, our recommendation would be a campaign under 5000$, that was launched in May into early summer. We would also like to see data on which theater houses were the most successful, which plays by which authors did the best, also possibly looking at demographics on who supported the campaings and who attends the plays. A cross section of that would help refine the data even more.
+
+
