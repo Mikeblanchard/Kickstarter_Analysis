@@ -13,3 +13,5 @@ From this chart, we can determine that the most successful month for successful 
 A point of notice is that the arc of successes and failures do both follow a same path throughout the year. Additional data would be needed to further determine successful campaigns. We would recommend a look at the type of plays being put on, perhaps categorized by genre, and a closer examination of the state or province in which these campaigns succeeded and failed. 
 
 ##### Initial Goal Analysis
+![](https://github.com/Mikeblanchard/Kickstarter_Analysis/blob/main/Theater_Outcomes_Vs_Launch.png)
+
