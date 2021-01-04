@@ -15,3 +15,5 @@ A point of notice is that the arc of successes and failures do both follow a sam
 ##### Initial Goal Analysis
 ![](https://github.com/Mikeblanchard/Kickstarter_Analysis/blob/main/Outcomes_Vs_Goals.png)
 
+Our second area of interest was the success rate of campaigns at different starting Goals. We can see that low inital Goals of less that 1000$ do the best, with the most frequency. Its interesting to see how the twwo lines mirror each other, with serious dips in success occuring around the 25,000$ range, jumping up again breifly at 35,000$ then right back down again at 45,000$. It is important to note that there was only a combined total of 26 campaigns above 35,000$, of which only 8 were successful. We believe these to be outliers, and much more data at this starting Goal range is needed. 
+
