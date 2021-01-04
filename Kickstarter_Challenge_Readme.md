@@ -8,6 +8,8 @@ The most difficult part of this analysis was choosing which data mattered. We ha
 ##### Launch Date Analysis
 ![](https://github.com/Mikeblanchard/Kickstarter_Analysis/blob/main/Theater_Outcomes_Vs_Launch.png)
 
-From this chart, we can determine that the most successful month for successful campaigns is May, followed closely by the rest of the summer. By far the worst month for campaigns is December, as is to be expected during the holiday season; people have other financial priorities during this time of year.
+From this chart, we can determine that the most successful month for successful campaigns is May, followed closely by the rest of the summer. By far the worst month for campaigns  is December, as is to be expected during the holiday season; people have other financial priorities during this time of year.
 
+A point of notice is that the arc of successes and failures do both follow a same path throughout the year. Additional data would be needed to further determine successful campaigns. We would recommend a look at the type of plays being put on, perhaps categorized by genre, and a closer examination of the state or province in which these campaigns succeeded and failed. 
 
+#####
